@@ -1,0 +1,44 @@
+1-Masks play a crucial role in protecting the health of individuals against respiratory diseases, as is one of the few precautions 	available for COVID-19 in the absence of immunization. With this dataset, We created a model to detect people wearing masks, 	not wearing them, or wearing masks improperly.
+	This dataset contains 853 images belonging to the 3 classes, as well as their bounding boxes in the PASCAL VOC format and txt 	format.
+	The classes are:
+
+	a) With mask;
+	b) Without mask;
+	c) Mask worn incorrectly.
+
+2- DATASET DISTRIBUTION: The Dataset is split into train (80%), test (10%) and validation (10%) sets. 
+
+3- FILES: In this file there are 4 files. Let's breakdown those files:
+
+	1- Dataset file: This file contains 10 different files: 
+
+		a) annotations: This file has all labels of the dataset in '.xml' format.
+
+		b) images: This file has the whale Dataset inside it.
+
+		c) Results4_V5: This file is the file of the Yolov5 trained model.
+
+		d) Results5_V8n: This file is the file of the Yolov8n trained model.
+
+		e) Results5_V8s: This file is the file of the Yolov8s trained model.
+
+		f) split: This file has the split data (train, test, validation)
+
+		g) Test Prediction: This file has the Predicted data from each model in the test phase
+		
+		h) Yolo Annotations: This file has the labels of the dataset in 'txt' format
+
+		i) data: The '.yaml' file
+
+	2- Qt5: This file has the GUI design in '.ui' format and the code of the GUI in '.py' format
+
+	3- runs: This file has all the predicted images 
+
+	4- Yolo_Model_Code: This is the code of the whale project in '.ipynb'
+
+4- MODEL'S RESULTS: 
+
+
+
+
+

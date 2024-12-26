@@ -1,0 +1,7 @@
+
+train: e:\Diploma\Machine Learning\AMIT Final Project\Dataset\split\train\images
+val: e:\Diploma\Machine Learning\AMIT Final Project\Dataset\split\val\images
+test: E:\Diploma\Machine Learning\AMIT Final Project\Dataset\split\test
+
+nc: 3 
+names: ['with_mask','without_mask','mask_weared_incorrect']
