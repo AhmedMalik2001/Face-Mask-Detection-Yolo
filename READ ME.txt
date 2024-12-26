@@ -6,6 +6,8 @@
 	b) Without mask;
 	c) Mask worn incorrectly.
 
+* Link of the Dataset https://www.kaggle.com/datasets/andrewmvd/face-mask-detection 
+
 2- DATASET DISTRIBUTION: The Dataset is split into train (80%), test (10%) and validation (10%) sets. 
 
 3- FILES: In this file there are 4 files. Let's breakdown those files:
